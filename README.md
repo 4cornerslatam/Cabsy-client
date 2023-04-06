@@ -1,3 +1,5 @@
+# Historias de usuario
+
 1. Yo como usuaria quiero visualizar en un mapa la ubicación más reciente de algunos vehículos en cierto radio de ubicación para saber en donde se encuentran
 
    Criterios de aceptación:
@@ -36,4 +38,19 @@
    - Manejo de errores y validaciones
    - Mostrar / ocultar la contraseña
 
-Definición de terminado
+#
+
+Definición de terminado | Historias de usuario
+
+- Fiel al prototipo de alta fidelidad
+- Code review
+- Deploy
+- Responsive
+
+##### Tan posible com sea:
+
+- Test unitarios
+- Test de usabilidad (lighthouse)
+- Test automatizados (?)
+
+#
