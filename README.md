@@ -20,5 +20,20 @@
    - Debe tener un calendario / input donde se pueda seleccionar la fecha
    - Debe mostrar todas las ubicaciones que se tuvo en el día seleccionado (Panel de información y mapa)
    - Max. 30 días
+   - Mostrar información del usuario que administra el cabsy seleccionado
 
-4.
+4. Yo como usuario quiero poder consultar las ubicaciones de un cabsy en específico
+
+   Criterios de aceptación:
+
+   - Debe realizar consultas por medio de matrícula y/o nombre de conductor
+
+5. Yo como usuario quiro iniciar sesión para poder visualizar a los cabsys
+
+   Criterios de aceptación
+
+   - Ingreso de usuario y contraseña
+   - Manejo de errores y validaciones
+   - Mostrar / ocultar la contraseña
+
+Definición de terminado
