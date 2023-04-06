@@ -12,3 +12,13 @@
 
    - Se actualicen los puntos en el mapa con el movimiento que se haga
    - Se actualice el panel de información de los puntos que se muestran
+
+3. Yo como usuario quiero visualizar en el mapa las ubicaciones de un cabsy en una fecha específica
+
+   Criterios de aceptación:
+
+   - Debe tener un calendario / input donde se pueda seleccionar la fecha
+   - Debe mostrar todas las ubicaciones que se tuvo en el día seleccionado (Panel de información y mapa)
+   - Max. 30 días
+
+4.
